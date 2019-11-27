@@ -1,0 +1,47 @@
+body{background-color:#4d5963;}
+
+
+.fb{background-color:blue;
+border-color:black;
+font-size:30px;}
+
+
+.twitter{background-color:skyblue;
+border-color:black;
+font-size:30px;}
+
+
+.button{margin-top:100px;}
+
+
+form input{
+    border:none;
+    outline:none;
+    background-color:white;
+    font-size:25px;}
+
+
+.abc{border:2px;
+border-color:black;
+background-color:seagreen;
+font-size:25px;
+width:600px;
+color:white;
+height:40px;}
+
+
+.abc:hover{
+    border:2px;
+    padding:5px;
+    color:seagreen;
+    background-color:white;
+}
+
+
+h1,h2{color:white;}
+
+
+.blue{color:deepskyblue;}
+
+
+form p input{width:620px;}
